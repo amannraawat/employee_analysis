@@ -1,0 +1,6 @@
+1.Employee Demographic
+  a. Count the number of employees are there in each age group.
+  b. How many male and female employees are working?
+  c. How many employees travel for business frequently, rarely, or never? (Rename column as EmployeeCount)
+  d. How many employees in each education field with more than 3 JobLevels, ordered by the count of employees in ascending order?
+  e. What is the average age of employees in each job role with 'Manager' in the title, ordered by average age in ascending order?
