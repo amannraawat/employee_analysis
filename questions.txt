@@ -4,3 +4,12 @@
   c. How many employees travel for business frequently, rarely, or never? (Rename column as EmployeeCount)
   d. How many employees in each education field with more than 3 JobLevels, ordered by the count of employees in ascending order?
   e. What is the average age of employees in each job role with 'Manager' in the title, ordered by average age in ascending order?
+
+2.Joins and Subquery
+  a. What is the monthly income and job satisfaction level of each employee?(Using General_data and employee_survey_data)
+  b. How many employees are there in each job role with their respective job satisfaction levels?
+  c. Get the gender and work-life balance level for each employee, including those without any survey data.
+  d. Get the job role, work-life balance, and performance rating of employees, only for those with data in all tables.
+  e. Find the employee ID who has a monthly income above the average monthly income.
+  f. Find the employee ID who lives closer than the average distance from home.
+
