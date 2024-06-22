@@ -13,3 +13,10 @@
   e. Find the employee ID who has a monthly income above the average monthly income.
   f. Find the employee ID who lives closer than the average distance from home.
 
+3.Employee Profile Segmentation
+  a. Find the employees who work in either the Sales or Research and Development departments.
+  b. Find the employees who are in either Job Level 3 or Job Level 4.
+  c. Classify employees into income brackets ('Low', 'Medium', 'High') based on their monthly income.(Low=20,000 and Medium= 20,000      to 70,000 , high>=70,000)
+  d. Categorize employees based on their distance from home into 'Close', 'Medium', and 'Far'. (close<=7, medium 7 to 20, far>=20)
+  e. Count number of employees in 'Human Resources' and 'Other' departments(using case statements)
+
