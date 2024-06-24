@@ -1,4 +1,4 @@
-1.Employee Demographic
+1.Basic Queries
   a. Count the number of employees are there in each age group.
   b. How many male and female employees are working?
   c. How many employees travel for business frequently, rarely, or never? (Rename column as EmployeeCount)
@@ -13,7 +13,7 @@
   e. Find the employee ID who has a monthly income above the average monthly income.
   f. Find the employee ID who lives closer than the average distance from home.
 
-3.Employee Profile Segmentation
+3.Case Queries
   a. Find the employees who work in either the Sales or Research and Development departments.
   b. Find the employees who are in either Job Level 3 or Job Level 4.
   c. Classify employees into income brackets ('Low', 'Medium', 'High') based on their monthly income.(Low=20,000 and Medium= 20,000      to 70,000 , high>=70,000)
