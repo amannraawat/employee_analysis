@@ -20,3 +20,10 @@
   d. Categorize employees based on their distance from home into 'Close', 'Medium', and 'Far'. (close<=7, medium 7 to 20, far>=20)
   e. Count number of employees in 'Human Resources' and 'Other' departments(using case statements)
 
+4.Window Queries
+  a. Assign a rank to each employee based on their monthly income.(Using Window Function)
+  b. Calculate the average monthly income within each department.(Using Window Function)
+  c. Calculate the third highest monthly income within each department.
+  d. Calculate the difference between each employee's monthly income and the previous employee's monthly income in the dataset.
+
+
