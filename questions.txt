@@ -26,4 +26,8 @@
   c. Calculate the third highest monthly income within each department.
   d. Calculate the difference between each employee's monthly income and the previous employee's monthly income in the dataset.
 
+5.CTE Queries
+  a. Find employees who have a monthly income above 5000
+  b. Calculate the total monthly income for each department.    
+
 
